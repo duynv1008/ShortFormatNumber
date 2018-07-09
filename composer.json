@@ -1,0 +1,17 @@
+{
+    "name": "dnv/numberformat",
+    "description": "Short number format",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Van Duy",
+            "email": "duy.nv@globalflow.com.vn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dnv\\FormatNumber\\": "src/"
+        }
+    }
+}
